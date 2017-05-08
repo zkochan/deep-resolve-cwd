@@ -1,5 +1,7 @@
 # deep-resolve-cwd
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/deep-resolve-cwd.svg)](https://greenkeeper.io/)
+
 > Resolve the path of a module through a sequence of packages from the current working directory
 
 <!--@shields('npm', 'travis')-->
