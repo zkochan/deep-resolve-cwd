@@ -40,6 +40,7 @@ An array of module IDs, a module ID is something that you pass to `require()`.
 ## Related
 
 - [deep-resolve-from](https://github.com/zkochan/deep-resolve-from) - Resolve the path of a module through a sequence of packages
+- [resolve-cwd](https://github.com/sindresorhus/resolve-cwd) - Resolve the path of a module like `require.resolve()` but from the current working directory
 
 ## License
 
