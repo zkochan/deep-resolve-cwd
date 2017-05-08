@@ -27,7 +27,7 @@ console.log(deepResolveCwd(['mos', 'chalk', './package.json']))
 
 Like `require()`, throws when the module can't be found.
 
-### `deepResolveCwd.silent(fromDir, moduleIds)`
+### `deepResolveCwd.silent(moduleIds)`
 
 Returns `null` instead of throwing when the module can't be found.
 
